@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Gachon University Tourism Lab</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Gachon University Tourism Lab</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Professor</a></li>
+        <li><a href="#">Members</a></li>
+        <li><a href="#">Research</a></li>
+        <li><a href="#">Publication</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Board</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section>
+      <h2>About X-Lab</h2>
+      <p>Welcome to Gachon University Tourism Lab.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Gachon University Tourism Lab</p>
+  </footer>
+</body>
+</html>
